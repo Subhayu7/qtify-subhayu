@@ -9,7 +9,7 @@ import Filter from "./components/FilterSection/Filter";
 import { useState,useEffect } from 'react';
 //import { fetchTopAlbum,fetchNewAlbum } from './Api/Api';
 
-const ENDPOINT = 'https://qtify-backend-labs.crio.do/albums/new';
+const ENDPOINT = 'https://qtify-backend-labs.crio.do/';
 
 function App() {
 
